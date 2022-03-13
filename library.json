@@ -1,0 +1,23 @@
+{
+    "name": "ESPOTA",
+    "version": "1.0.0",
+    "keywords": "ESP32, OTA, Over The Air, Update",
+    "description": "Over The air update support for ESP32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/yoprogramo/ESPOTA"
+    },
+    "authors":
+    [
+      {
+          "name": "Jose Antonio Espinosa",
+          "email": "yoprogramo@gmail.com",
+          "url": "https://yoprogramo.com"
+      }
+    ],
+    "frameworks": "arduino",
+    "platforms": [
+      "espressif32"
+    ]
+  }
